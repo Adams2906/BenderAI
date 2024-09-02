@@ -1,10 +1,8 @@
 
-
 body {
     margin: 0;
     line-height: normal;
 }
-
 
 
 
@@ -453,7 +451,7 @@ body {
     width: 53px;
     height: 53px;
 }
-.vector-icon2 {
+.vector2-icon {
     position: absolute;
     top: 2030px;
     left: 774px;
@@ -511,7 +509,7 @@ body {
     width: 54px;
     height: 53px;
 }
-.vector-icon3 {
+.vector3-icon {
     position: absolute;
     top: 2440px;
     left: 210px;
@@ -560,7 +558,7 @@ body {
     width: 54px;
     height: 53px;
 }
-.vector-icon4 {
+.vector4-icon {
     position: absolute;
     top: 2444px;
     left: 775px;
@@ -1135,7 +1133,7 @@ body {
     height: 143px;
     display: none;
 }
-.vector-icon5 {
+.vector-icon2 {
     position: absolute;
     height: 0.82%;
     width: 3.68%;
@@ -1598,21 +1596,21 @@ body {
     width: 494px;
     height: 40px;
 }
-.vector-icon6 {
+.vector-icon3 {
     position: absolute;
     top: 6556.55px;
     left: 125.34px;
     width: 12.7px;
     height: 13.5px;
 }
-.vector-icon7 {
+.vector-icon4 {
     position: absolute;
     top: 6556.55px;
     left: 575.34px;
     width: 12.7px;
     height: 13.5px;
 }
-.vector-icon8 {
+.vector-icon5 {
     position: absolute;
     top: 6556.55px;
     left: 1025.34px;
@@ -1771,7 +1769,7 @@ body {
     line-height: 23.9px;
     color: #fff;
 }
-.vector-icon9 {
+.vector-icon6 {
     position: absolute;
     top: 5416px;
     left: 837px;
